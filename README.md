@@ -12,7 +12,11 @@ Making predictions on the test set
 To run the project, you need to have Python installed along with the following libraries:
 
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
